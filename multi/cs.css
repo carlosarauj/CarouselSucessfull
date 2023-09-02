@@ -1,0 +1,92 @@
+
+body{
+    font-family: sans-serif;
+    background-color: #1b1b1b;
+}
+
+kbd{
+    font-size: 20px;
+}
+
+h1, h2{
+    color: #FFF;
+}
+
+p, li {
+    color: #f1f1f1;
+    font-size: 20px;
+}
+
+header, .navbar{
+    background-color: #353D41;
+}
+
+
+#sam{
+    width: 75px;
+}
+
+.navbar-brand{
+    padding: 10px;
+    color: #FFF;
+}
+
+#bury{
+    text-shadow: 
+    1px 1px 1px rgb(0, 0, 0), 
+    1px 2px 1px rgb(0, 0, 0),      
+    2px 1px 1px rgb(0, 0, 0),    
+    2px 1px 1px rgb(0, 0, 0);
+
+    color: purple;
+}
+
+#devil{
+    text-shadow: 
+    1px 1px 1px rgb(0, 0, 0), 
+    1px 2px 1px rgb(0, 0, 0),      
+    2px 1px 1px rgb(0, 0, 0),    
+    2px 1px 1px rgb(0, 0, 0);
+
+    color: blue;
+}
+
+#crimson{
+    text-shadow: 
+    1px 1px 1px rgb(0, 0, 0), 
+    1px 2px 1px rgb(0, 0, 0),      
+    2px 1px 1px rgb(0, 0, 0),    
+    2px 1px 1px rgb(0, 0, 0);
+
+    color: white
+}
+
+#buryb {
+    text-decoration: none; 
+    color: purple;
+    text-shadow: 
+    1px 1px 1px rgb(0, 0, 0), 
+    1px 2px 1px rgb(0, 0, 0),      
+    2px 1px 1px rgb(0, 0, 0),    
+    2px 1px 1px rgb(0, 0, 0);
+  }
+  
+#devilb {
+    text-decoration: none;
+    color: blue;
+    text-shadow: 
+    1px 1px 1px rgb(0, 0, 0), 
+    1px 2px 1px rgb(0, 0, 0),      
+    2px 1px 1px rgb(0, 0, 0),    
+    2px 1px 1px rgb(0, 0, 0);
+  }
+  
+#crimsonb {
+    text-decoration: none; 
+    color: white;
+    text-shadow: 
+    1px 1px 1px rgb(0, 0, 0), 
+    1px 2px 1px rgb(0, 0, 0),      
+    2px 1px 1px rgb(0, 0, 0),    
+    2px 1px 1px rgb(0, 0, 0);
+  }
